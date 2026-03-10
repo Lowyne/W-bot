@@ -43,10 +43,7 @@
   "unsend": [
     "😮"
   ],
-  "commandRoles": {
-    "help": 0,
-    "shortcut": 1
-  },
+  "commandRoles": {},
   "weatherApiKey": "4902c0f2550f58298ad4146a92b65e10",
   "imgbbApiKey": "d8bd5eb3ff1f6ac9a493cfe46d28bcf4",
   "tenorApiKey": "AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ",
