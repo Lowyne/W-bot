@@ -65,7 +65,7 @@ async function loadAvatar(sock, jid) {
 module.exports = {
   config: {
     name: 'rank',
-    prefix: true,
+    nixPrefix: true,
     role: 0,
     category: 'utility',
     aliases: ['level'],
