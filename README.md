@@ -76,7 +76,6 @@ node index.js
 NixBot/
 ├── index.js               # Process supervisor (auto-restart)
 ├── main.js                # WhatsApp connection & pairing code auth
-├── main_handler.js        # Message router & command loader
 ├── utils.js               # Global utilities, API config, helpers
 ├── config.json            # All bot settings & API keys
 │
